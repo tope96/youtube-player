@@ -1,6 +1,27 @@
 ### Mini YouTube Player
 
-## `npm start`
+## About
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+An React app that uses the YouTube API to search and display videos.
+
+## Installation
+
+Download the source code.
+To download all the dependencies execute:
+
+```
+npm install
+```
+
+To start web app:
+```
+npm start
+```
+
+## Features
+  
+- YouTube videos search,
+- Displaying videos from YouTube,
+- It uses:
+  - Axios for API requests,
+  - Semantic-ui for frontend
