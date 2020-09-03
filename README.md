@@ -1,4 +1,4 @@
-### Mini YouTube Player
+# Mini YouTube Player
 
 ## About
 
